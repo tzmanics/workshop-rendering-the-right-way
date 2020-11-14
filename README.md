@@ -1,8 +1,40 @@
 # Workshop: Render the Right Way
 
-In order to figure out which way to render works best for the project, we need to know the different approaches. In this workshop we'll walk through multiple ways of rendering content, focusing on two approaches: Server Side Rendering (SSR) and the Jamstack architecture approach. We'll look into the Angular approach to SSR using Angular Universal. Then we'll compare that process to the Jamstack approach of utilizing serverless functions.
+In order to figure out which way to render works best for the project, we need to know the different approaches. In this workshop we'll walk through multiple ways of rendering content, focusing on two approaches: Server Side Rendering (SSR) or Hybrid with Angular Universal and the Jamstack architecture approach with pre-rendering and serverless functions.
 
 We'll also be shining light on the other surrounding concerns like set up, costs, developer experience, and more. The point of this workshop is not to tell you which approach is the best, but to give you the information to make that decision on your own.
+
+## The Agenda
+
+:00 - :30
+- intros
+- render refresher: what even is rendering?
+
+:30 - :55
+- hybrid rendering benefits & pitfalls
+- Angular Universal setup
+
+:55 - 1:00
+
+break time ヽ(´∇´)ノ　(∇´ノ)　ヽ(　　　)ノ　(ヽ´∇) ヽ(´∇`)ﾉ
+
+1:00 - 1:30
+- building with Angular Universal: developing, pre-rendering, ssr 
+
+1:30 - 1:55
+- the jamstack approach benefits & pitfalls 
+
+1:55 - 2:00
+
+break time ヽ(´∇´)ノ　(∇´ノ)　ヽ(　　　)ノ　(ヽ´∇) ヽ(´∇`)ﾉ
+
+2:00 - 2:45
+- pre-rendering with a static site generator, [Scully](http://scullyio.com/)
+- adding hydration with serverless functions
+
+2:45 - 3:00
+- wrap up
+- q & a
 
 # Workshop Setup
 
@@ -69,3 +101,5 @@ So excited and want to jump in immediately? Here are some resources you can chec
 - [Is SSR Compatible with the Jamstack](https://dev.to/shortdiv/is-ssr-compatible-with-the-jamstack-5959)
 - [Angular Universal SSR](https://angular.io/guide/universal)
 - [Jamstack.org](https://jamstack.org/)
+- [Angular Universal v9: What's New](https://trilon.io/blog/angular-universal-v9-whats-new)
+- [Scully](http://scullyio.com/) the Angular Static Site Generator
