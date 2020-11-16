@@ -7,32 +7,38 @@ We'll also be shining light on the other surrounding concerns like set up, costs
 ## The Agenda
 
 :00 - :30
+
 - intros
 - render refresher: what even is rendering?
 
 :30 - :55
+
 - hybrid rendering benefits & pitfalls
 - Angular Universal setup
 
 :55 - 1:00
 
-break time ヽ(´∇´)ノ　(∇´ノ)　ヽ(　　　)ノ　(ヽ´∇) ヽ(´∇`)ﾉ
+break time ヽ(´∇´)ノ　(∇´ ノ)　ヽ(　　　)ノ　(ヽ ´∇) ヽ(´∇`)ﾉ
 
 1:00 - 1:30
-- building with Angular Universal: developing, pre-rendering, ssr 
+
+- building with Angular Universal: developing, pre-rendering, ssr
 
 1:30 - 1:55
-- the jamstack approach benefits & pitfalls 
+
+- the jamstack approach benefits & pitfalls
 
 1:55 - 2:00
 
-break time ヽ(´∇´)ノ　(∇´ノ)　ヽ(　　　)ノ　(ヽ´∇) ヽ(´∇`)ﾉ
+break time ヽ(´∇´)ノ　(∇´ ノ)　ヽ(　　　)ノ　(ヽ ´∇) ヽ(´∇`)ﾉ
 
 2:00 - 2:45
+
 - pre-rendering with a static site generator, [Scully](http://scullyio.com/)
 - adding hydration with serverless functions
 
 2:45 - 3:00
+
 - wrap up
 - q & a
 
@@ -84,6 +90,8 @@ For this workshop we'll be using [Netlify](https://www.netlify.com/?utm_source=g
 
 > Heads up, I work for Netlify. Even before I did, I always recommended using them because I LOVE their developer experience. Which, in turn, is why I happily work on their developer experience team. Just wanted to be transparent 👍.
 
+We'll also be using [Firebase](https://firebase.google.com/?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WTH_JCbfErgfs9lixpwLRsQZBtMSuCx_SY680Slhcsck6694CLU1GYaAiTTEALw_wcB). You can click the 'Get started` or 'Sign in' button to create your account.
+
 ## Checklist
 
 Here's a little tldr; of what to have before coming to the workshop. Again, this helps us to really get the most out of the workshop.
@@ -92,6 +100,7 @@ Here's a little tldr; of what to have before coming to the workshop. Again, this
 - [ ] Latest version of the Angular CLI
 - [ ] A git account
 - [ ] A Netlify account
+- [ ] A Firebase account
 - [ ] A good knock-knock joke (just in case)
 
 ## Pre-Workshop Resources
