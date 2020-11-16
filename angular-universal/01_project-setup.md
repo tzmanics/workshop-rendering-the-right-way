@@ -2,7 +2,7 @@
 
 ## Make the demo yours!
 
-The project we'll be using for this workshop lives at [https://github.com/tzmanics/workshop-rendering-the-right-way](https://github.com/tzmanics/workshop-rendering-the-right-way). There are a few ways to grab this project, here are two:
+The project we'll be using for this workshop lives at [https://github.com/tzmanics/rtrw-demo](https://github.com/tzmanics/rtrw-demo). There are a few ways to grab this project, here are two:
 
 1. Push the 'Use this template' ԅ(´ڡ\`ԅ) button at the top of the repo page. Then clone it locally with `git clone`.
 
