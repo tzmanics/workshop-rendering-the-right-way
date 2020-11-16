@@ -30,7 +30,7 @@ Then to set up the project we will choose to create a new project and name it (y
 
 > 🚨 If you see this error `FirebaseError: Callers must accept Terms of Service`, as I did, you just need to head to your [Google Cloud dashboard](https://console.cloud.google.com/home/) and hit 'Create project' in order to accept the Terms of Service.
 
-Next, we'll setup our Cloud Functions. I chose to write mine in JS but feel free to choose TypeScript (I choose this to have as many similarites between rendering options just for this workshop). Then we can choose to enforce ESLint (totes optional) and we will want to install dependencies now.
+Next, we'll setup our Cloud Functions. I chose to write mine in JS but feel free to choose TypeScript (I choose this to have as many similarites between rendering options just for this workshop). Then we can say 'No' for now to enforce ESLint and we will want to install dependencies now.
 
 ![firebase functions setup](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1605537030/Screen_Shot_2020-11-16_at_8.55.15_AM_swj2na.jpg)
 
