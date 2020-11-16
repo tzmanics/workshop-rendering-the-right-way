@@ -56,15 +56,16 @@ You are free to use whatever code editor you prefer. Using [VS Code](https://cod
 
 ### Angular Requirements
 
-It's always best to yse the latest version of Angular (at the writing of this that is v10). If you don't have the Angular CLI installed already when you do install it will give you the latest version. If not, you can check your version by running the `ng --version` command in your command line to see if you need to update.
+It's always best to yse the latest version of Angular (at the writing of this that is v11). If you don't have the Angular CLI installed already when you do install it will give you the latest version. If not, you can check your version by running the `ng --version` command in your command line to see if you need to update.
 
 - To install the Angular CLI run
 
 ```bash
-npm install -g @angular/cli
+npm install -g @angular/cli @angular/core
 ```
 
-- [Link on updating to v10.](https://angular.io/guide/updating-to-version-10)
+- [Link on updating to v11.](https://t.co/4aX9kL8lnE?amp=1)
+- [Link to Mark Techson's post on updating to v11](https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7)
 
 Once you have the Angular CLI installed and up to date, you may want to run the project generation command `ng new` to make sure everything works ok.
 
